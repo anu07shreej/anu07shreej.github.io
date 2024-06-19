@@ -5,9 +5,9 @@ permalink: /certifications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Certifications</a>.</div>
-{% endif %}
+
+ <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Certifications</a>.</div>
+
 
 {% include base_path %}
 
