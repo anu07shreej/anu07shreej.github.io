@@ -5,8 +5,7 @@ permalink: /certifications/
 author_profile: true
 ---
 
-
- <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Certifications</a>.</div>
+<div class="wordwrap">I have completed a few courses to keep up with the latest developments in the field of AI.</div>
 
 
 {% include base_path %}
