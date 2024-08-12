@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="wordwrap">Few courses </div>
 
-https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD
+<a> https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD </a>
 
 https://www.coursera.org/account/accomplishments/specialization/PJ8JUZCEBGC6
 
