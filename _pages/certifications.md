@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="wordwrap">Few courses </div>
 
-<a> https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD </a>
+<a href="https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD">Generative AI for Everyone</a>
 
 https://www.coursera.org/account/accomplishments/specialization/PJ8JUZCEBGC6
 
