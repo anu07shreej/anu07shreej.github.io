@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Certifications"
+title: "Courses and Certifications"
 permalink: /certifications/
 author_profile: true
 ---
-
-<div class="wordwrap">Courses and Certifications </div>
-<div> </div>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD">Generative AI for Everyone</a>
 
