@@ -5,8 +5,19 @@ permalink: /certifications/
 author_profile: true
 ---
 
-<div class="wordwrap">I have completed a few courses to keep up with the latest developments in the field of AI.</div>
+<div class="wordwrap">Few courses </div>
 
+https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD
+
+https://www.coursera.org/account/accomplishments/specialization/PJ8JUZCEBGC6
+
+https://www.coursera.org/account/accomplishments/specialization/certificate/3732EXJHFE2B
+
+https://www.coursera.org/account/accomplishments/verify/YB4VYUC8VMGS
+
+https://www.coursera.org/account/accomplishments/certificate/WB5LMPC7QQ4Y
+
+https://www.coursera.org/account/accomplishments/certificate/FNGBWZSUL8BF
 
 {% include base_path %}
 
