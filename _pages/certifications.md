@@ -5,7 +5,7 @@ permalink: /certifications/
 author_profile: true
 ---
 
-<div class="wordwrap">Few courses </div>
+<div class="wordwrap">Courses and Certifications </div>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/89NLXM9K97AD">Generative AI for Everyone</a>
 
