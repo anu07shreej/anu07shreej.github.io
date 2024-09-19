@@ -1,6 +1,6 @@
 ## Resource links for Semiconductors
 
-* Opamp Design: https://edf.bu.edu/PY371/DataSheets/op_amps_for_everyone.pdf
+* Opamp Design: [TI doc](https://edf.bu.edu/PY371/DataSheets/op_amps_for_everyone.pdf)
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
