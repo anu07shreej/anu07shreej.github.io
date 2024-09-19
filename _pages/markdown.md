@@ -1,13 +1,4 @@
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
-
-## Locations of key files/directories
+## Resource links for Semiconductors
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
